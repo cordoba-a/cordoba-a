@@ -6,6 +6,8 @@
 - 👨🏻‍🔬
 - 🧑🏻‍💻 
 
+## Estadísticas de GitHub
+![cordoba-a i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cordoba-a&_icons=true&hide_border=true&layout=compact&bg_color=00000000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
