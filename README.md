@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋🏼 I'm Eduardo</h1>
-<h3 align="center">Experimental Biologist  👨🏻‍🔬 🌱 🔬  Data Science Engineering  🧑🏻‍💻 </h3>
+<h3 align="center">Experimental Biologist  👨🏻‍🔬 🌱 🔬  Data Science Engineer  🧑🏻‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cordoba-a&label=Profile%20views&color=0e75b6&style=flat" alt="cordoba-a" /> </p>
 
