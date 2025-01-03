@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼 I'm Eduardo</h1>
-<h3 align="center">Experimental Biologist  👨🏻‍🔬 🌱 🔬 & Data Science Engineer  🧑🏻‍💻 </h3>
+<h3 align="left">Experimental Biologist  👨🏻‍🔬 🌱 🔬 & Data Science Engineer  🧑🏻‍💻 </h3>
 
 
 
@@ -10,4 +10,3 @@
 <a href="https://buymeacoffee.com/coae"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/buy_me_a_coffee-purple?style=social&logo=buy%20me%20a%20coffee">
 </a>
-<a>🧑🏻‍💻👨🏻‍🔬</a>
